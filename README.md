@@ -4,8 +4,8 @@ This project provides tools to query and analyze financial reports using OpenAI'
 ## Advanced RAG - Expansion Answer Phase :
 ![RAGExpansionAnswer](https://github.com/user-attachments/assets/a97754f4-fdaa-49e3-a1b9-33cf0f2baa02) 
 ### Example of RAG Expansion Answer Embedding Status Visualization
-![Uploading ResultGraphExample1.png…]()
-![Uploading ResultGraphExample2.png…]()
+<img width="956" alt="ResultGraphExample1" src="https://github.com/user-attachments/assets/38c744a8-42dd-409a-a4f0-dda90815cb79" />
+<img width="957" alt="ResultGraphExample2" src="https://github.com/user-attachments/assets/6e0f358f-5f0a-4cb4-a07c-ac27c32b9e98" />
 ### RAG Expansion Answer Embedding Use Cases : 
 1.Information Retrieval
 2.Question Answering Systems
@@ -16,7 +16,8 @@ This project provides tools to query and analyze financial reports using OpenAI'
 ## Advanced RAG - Expansion Mulitpile Queries Phase :
 ![RAGExpansionQueries](https://github.com/user-attachments/assets/f924f182-24c5-406d-bcb3-ae3ab12f79b5)
 ### Example of RAG Expansion Mulitpile Queries Embedding Status Visualization
-![Uploading ResultGraphExampleMultiQueries.png…]() 
+<img width="953" alt="ResultGraphExampleMultiQueries" src="https://github.com/user-attachments/assets/6f13c385-b5f5-4836-bc6b-996fc33f9d1c" />
+
 ### RAG Expansion Mulitpile Queries Embedding Use Cases :
 1.Exploring Data Analysis
 2.Academic Research
