@@ -1,6 +1,27 @@
 # Advanced RAG with Expansion Answers and Queries
 
 This project provides tools to query and analyze financial reports using OpenAI's GPT-3.5 and ChromaDB for document embedding and retrieval. The project processes PDF documents, splits them into manageable chunks, generates embeddings, and allows querying to retrieve relevant information.
+## Advanced RAG - Expansion Answer Phase :
+![RAGExpansionAnswer](https://github.com/user-attachments/assets/a97754f4-fdaa-49e3-a1b9-33cf0f2baa02) 
+### Example of RAG Expansion Answer Embedding Status Visualization
+![Uploading ResultGraphExample1.png…]()
+![Uploading ResultGraphExample2.png…]()
+### RAG Expansion Answer Embedding Use Cases : 
+1.Information Retrieval
+2.Question Answering Systems
+3.E-commerce Search
+4.Academic Research
+
+
+## Advanced RAG - Expansion Mulitpile Queries Phase :
+![RAGExpansionQueries](https://github.com/user-attachments/assets/f924f182-24c5-406d-bcb3-ae3ab12f79b5)
+### Example of RAG Expansion Mulitpile Queries Embedding Status Visualization
+![Uploading ResultGraphExampleMultiQueries.png…]() 
+### RAG Expansion Mulitpile Queries Embedding Use Cases :
+1.Exploring Data Analysis
+2.Academic Research
+3.Customer Support
+4.Healthcare Information Systems
 
 
 ## Project Structure
@@ -11,13 +32,14 @@ This project provides tools to query and analyze financial reports using OpenAI'
 - `.env`: Environment file containing the OpenAI API key.
 - `.gitignore`: Git ignore file to exclude unnecessary files from version control.
 
+
 ## Setup
 
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/amirkhier/RAGQueryExpansion.git
+    cd RAGQueryExpansion
     ```
 
 2. **Install dependencies:**
