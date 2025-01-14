@@ -6,7 +6,7 @@ This project provides tools to query and analyze financial reports using OpenAI'
 ## Example of RAG Expansion Answer Embedding Status Visualization
 <img width="956" alt="ResultGraphExample1" src="https://github.com/user-attachments/assets/38c744a8-42dd-409a-a4f0-dda90815cb79" />
 <img width="957" alt="ResultGraphExample2" src="https://github.com/user-attachments/assets/6e0f358f-5f0a-4cb4-a07c-ac27c32b9e98" />
-## RAG Expansion Answer Use Cases:
+# RAG Expansion Answer Use Cases:
 1.Information Retrieval
 2.Question Answering Systems
 3.E-commerce Search
