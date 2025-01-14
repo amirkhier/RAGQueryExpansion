@@ -1,0 +1,9 @@
+openai
+chromadb
+umap-learn
+matplotlib
+PyPDF2
+scikit-learn
+python-dotenv
+pandas
+langchain
